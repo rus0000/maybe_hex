@@ -1,0 +1,12 @@
+[package]
+name = "maybe_hex"
+authors = ["Ruslan Iusupov <https://github.com/rus0000>"]
+version = "1.0.0"
+license = "MIT"
+edition = "2021"
+publish = ["crates-io"]
+repository = "https://github.com/rus0000/maybe_hex"
+
+
+[dependencies]
+num-traits = "0.2.19"
